@@ -13,5 +13,7 @@
 * React and Tailwind CSS
 
 ## Notes For the Future
-* Continue to update the website in the future as I work on more projects to showcase to potential employers. 
+* Continue to update the website in the future as I work on more projects to showcase for potential employers. 
 
+## App Link
+https://aliff-razif.vercel.app/
